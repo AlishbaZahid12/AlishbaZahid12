@@ -6,14 +6,15 @@ Software Engineering final-year student with hands-on experience in full-stack d
 ---
 
 ## 🌐 Socials:
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alishba-zahid-bse)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alishbazahid888@gmail.com)
+</div>
 
 ---
 
-<div align="center">
-
 ## 💻 Tech Stack:
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=38bdf8" height="45"/>
 <img src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css3&logoColor=38bdf8" height="45"/>
 <img src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=38bdf8" height="45"/>
