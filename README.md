@@ -8,7 +8,7 @@ Software Engineering final-year student with hands-on experience in full-stack d
 ## 🌐 Socials:
 <div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/alishba-zahid-bse">
+<a href="https://www.linkedin.com/in/alishba-zahid-bse/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="60"/>
 </a>
 
